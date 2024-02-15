@@ -37,9 +37,9 @@ The threshold value has been set at 900 after analysing some test cases.
 
 Output given by Soil moisture sensor	 Status of the Waste
 
- >900                                       Dry Waste
+  > 900                                       Dry Waste
 
- < 900	                                      Wet Waste
+  < 900	                                      Wet Waste
 
 
 
