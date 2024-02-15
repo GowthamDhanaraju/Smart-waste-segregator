@@ -50,13 +50,13 @@ The touch sensor helps us to know whether the waste has been placed or not , it 
 Table:2 – Rotation of the motor with respect to the type of waste.
 
 
-State of the Waste	 Servo Motor – 1 (angle)	 Servo Motor -2 (angle)
+State of the Waste	. Servo Motor – 1 (angle)	. Servo Motor -2 (angle)
 
-No waste placed	             90	                      90
+No waste placed	    .         90	            .          90
 
-Wet Waste	                    0	                      180
+Wet Waste	          .         0	               .       180
 
-Dry Waste	                   180	                     0
+Dry Waste	          .       180	                .       0
 
  
 A box with partition between them is used for collecting the waste after classification.
@@ -64,13 +64,13 @@ A box with partition between them is used for collecting the waste after classif
 
 The Ultrasonic sensor helps in the detection of the garbage level , when the garbage reaches a certain height , the ultrasonic sensor alerts the user using led to clear the garbage of whichever side the garbage has been filled . The sensor has been placed facing the opposite wall which has a distance of 30 cm , since the partition is at 15 cm , we are able to say that garbage is full on specific side when the garbage is full, and is shown by blinking led whenever a side is full.
 
-Distance shown by ultrasonic sensor	               Status of the bin
+Distance shown by ultrasonic sensor	      .         Status of the bin
 
-30 cm	                                         Neutral (No bins filled)
+30 cm	                        .                 Neutral (No bins filled)
 
-15cm – 30 cm	                                    Wet waste is filled
+15cm – 30 cm	                 .                   Wet waste is filled
 
-0 cm – 15 cm	                                    Dry waste is filled
+0 cm – 15 cm	                  .                  Dry waste is filled
 
 
 
