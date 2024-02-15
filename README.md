@@ -35,7 +35,7 @@ The Soil Moisture Sensor helps us to classify the dry and wet waste , it return 
 The threshold value has been set at 900 after analysing some test cases.
 
 
-Output given by Soil moisture sensor	 Status of the Waste
+Output given by Soil moisture sensor	.  Status of the Waste
 
   => 900                  .                     Dry Waste
 
