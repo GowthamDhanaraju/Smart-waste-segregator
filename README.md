@@ -3,7 +3,7 @@
 
 Develop an automated Wet and Dry Waste Segregation Machine to enhance waste management efficiency by accurately sorting dry and wet materials at the source, promoting recycling and composting.
 
-Components used :
+# Components used :
 
 i.	Audrino Mega 2650 :
 
